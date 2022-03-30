@@ -1,0 +1,12 @@
+body {
+    font-family:'arial';
+    color:rgb(218, 72, 15);
+    text-align: justify;
+    background-color: rgb(73, 207, 32);
+}
+p {
+    font-family: 'Calibri';
+    color:rgb(0, 0, 0);
+    text-align: justify;
+}
+
